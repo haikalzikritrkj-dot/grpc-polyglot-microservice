@@ -76,7 +76,7 @@ service UserService {
 
 ---
 
-##  Perintah Kompilasi Protobuf per Bahasa
+##  Perintah Kompilasi Protobuf
 
 ### 1. Go Server (Static Code Generation)
 ```cmd
